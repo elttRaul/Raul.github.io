@@ -12,4 +12,4 @@ js/script.js    → rellotge, comptador i info de l'entorn
 ```
 
 ## Escriu el teu nom ací baix
-asdf asdf 
+Raúl Ballesteros
